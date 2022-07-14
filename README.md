@@ -1,2 +1,3 @@
 # hello-world
-hello world program
+**bold text**
+Not going to write about myself lol
