@@ -1,3 +1,5 @@
 # hello-world
-**bold text**
-Not going to write about myself lol
+**Facts about myself**
+1. *25 years old*
+2. *From Overland Park, KS*
+3. *Enjoys fitness and chess*
